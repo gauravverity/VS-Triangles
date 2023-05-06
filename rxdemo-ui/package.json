@@ -9,7 +9,7 @@
   "license": "MIT",
   "dependencies": {
     "aurelia-animator-css": "^1.0.1",
-    "aurelia-framework": "^1.0.0",
+    "aurelia-framework": "^1.4.1",
     "aurelia-history-browser": "^1.0.0",
     "aurelia-pal-browser": "^1.0.0",
     "aurelia-templating-binding": "^1.0.0",
